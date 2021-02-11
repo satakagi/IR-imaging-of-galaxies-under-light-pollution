@@ -13,6 +13,7 @@ Even if the H-alpha narrow-band filter is capable of anti-light pollution, it wo
 The following graph shows the spectrum of a commonly used lighting device (lamp).
 
 ![Spectrum of various lights](imgs/LumpSpector.png)
+
 _Note: HPNa is a high-pressure sodium lamp and Lump is incandescent bulb_
 
 Of these, the incandescent bulb is rapidly disappearing today due to its lack of efficiency. And except for incandescent bulbs, the infrared spectrum is not as pronounced.
@@ -24,10 +25,12 @@ As long as the telescope is not facing the source of lightings,the light polluti
 According to the [wikipedia description of skyglow](https://en.wikipedia.org/wiki/Skyglow), [Rayleigh Scattering](https://en.wikipedia.org/wiki/Rayleigh_scattering) may be the cause, and the light pollution may be as much at shorter wavelengths as the reason why the sky is blue.
 
 The wavelength dependence of Rayleigh scattering is shown in the figure below.
+
 ![spectrum of sun and blue sky](imgs/RayleighScattering.png)
 
 
 And, the following graph shows the spectrum of normalized sunlight and blue sky. The spectrum of the blue sky attenuates at wavelengths shorter than the peak of around 500 nm, which seems to be difficult to explain by Rayleigh scattering alone, but at least the longer wavelengths are greatly attenuated.
+
 ![spectrum of sun and blue sky](imgs/Sun_vs_BlueSky.png)
 
 The following graph shows the coefficients of the intensity of the blue sky, which is the scatterer, against the sunlight, which is the light source. From this graph, it can be inferred that the scattered light of long wavelengths rapidly decays after peaking around 500nm.
@@ -41,6 +44,7 @@ And, [the research described in this slides](http://darkskyparks.splet.arnes.si/
 ## QE of CMOS Imager in Recent Years
 
 ![IMX455QE](imgs/IMX455QE.png)
+
 This graph shows the absolute QE of the relatively recent SONY's [backside illumination (BSI)](https://en.wikipedia.org/wiki/Back-illuminated_sensor) CMOS image sensor (IMX455) from [QHY's report](https://www.facebook.com/QHYCCD/posts/3087967891306473), which has a practical QE of about 80% even in the H-alpha band and about 40% at 800nm, indicating that imaging in the red to near-infrared is realistic. So, monochrome CMOS imagers using SONY's BSI sensors seem to have good sensitivity in red to IR.
 
 from [astrosurf.com](http://www.astrosurf.com/topic/139598-nouvelle-cam%C3%A9ra-mono-zwo-asi294-en-pr%C3%A9vision/?do=findComment&comment=1910295)
