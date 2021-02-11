@@ -1,6 +1,6 @@
 # Colorize red to IR images
 
-Although the author does not have much experience with this category of main gun yet, he has tried the following two methods.
+Although the author does not have much experiences yet, he has tried the following two methods.
 
 ## Compositing with images using the H-alpha filter
 
