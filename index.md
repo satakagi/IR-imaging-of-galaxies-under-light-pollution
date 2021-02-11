@@ -16,7 +16,7 @@ Using night vision with an image intensifier that has high sensitivity in the in
 
 So, this content will introduce the capability of imaging galaxies using red to near-infrared filters in light-polluted areas, taking the advantage of recent CMOS image sensors that have become significantly sensitive even in the near-infrared.
 
-## [How the effect works](Basis.md)
+## [How it works](Basis.md)
 
 ## [Equipments](Equipments.md)
 
