@@ -67,6 +67,10 @@ M101
 
 ![M101_20200418.jpg](pictures/asi1600mm/M101_20200418.jpg)
 
+Milky Way
+
+![MilkyWay_202008012036.jpg](pictures/asi1600mm/MilkyWay_202008012036.jpg)
+
 Antennae Galaxies
 
 ![NGC4038_20200316.jpg](pictures/asi1600mm/NGC4038_20200316.jpg)
