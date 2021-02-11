@@ -1,6 +1,6 @@
 # Gallery of galaxies imaged in the red to near-infrared
 
-These images were taken in central Tokyo on SQM 18.1.
+These images were taken in central Tokyo on SQM 18.1. They were imaged using monochrome CMOS imagers with red to near-infrared pass filters, as described on this site.
 
 All images have been resized to fit within 1600 x 1200 pixels to reduce load. The imaging conditions for each image may be added later.
 
