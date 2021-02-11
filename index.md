@@ -25,5 +25,5 @@ So, this content will introduce the capability of imaging galaxies using red to 
 ## [Gallery of galaxies](ImageGallery.md)
 
 ## Appendices
-* [Colorization]()
+* [Colorization](Colorization.md)
 * [Application with low-cost equipments](IMX462_QHT5III462C_NIRgalaxyImaging.md)
