@@ -4,6 +4,8 @@
 
 # Red to Near-Infrared Imaging of Galaxies Under Urban Light Pollution
 
+<p align="right">Satoru Takagi</p>
+  
 ## introduction
 The author live in the center of Tokyo ([SQM 18.1](https://www.lightpollutionmap.info/#zoom=8&lat=35.67&lon=139.77&layers=B0FFFFFFTFFFFFFFFFF)), and mainly enjoy observing celestial objects at home. Therefore, overcoming light pollution is a very important issue.
 
