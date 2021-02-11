@@ -1,3 +1,7 @@
+![frontImage](imgs/frontImage.jpg)
+
+<p align="right">Language: <a href="https://satakagi.github.io/IR-imaging-of-galaxies-under-light-pollution/">English</a>, <a href="https://translate.google.co.jp/translate?sl=en&tl=ja&u=https%3A%2F%2Fsatakagi.github.io%2FIR-imaging-of-galaxies-under-light-pollution%2F">Japanese (Google Translation)</a></p>
+
 # Red to Near-Infrared Imaging of Galaxies Under Urban Light Pollution
 
 ## introduction
