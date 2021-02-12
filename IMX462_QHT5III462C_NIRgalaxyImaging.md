@@ -1,7 +1,7 @@
 # Near IR galaxy imaging with inexpensive equipments using IMX462 camera.
 
 ## Introduction
-The method of using near infrared to cancel light pollution and image galaxies basically requires an expensive large sized monochrome camera, but I have been looking for a cheaper way to achieve this effect, and have found one good solution. This is a report on it.
+The method of using near infrared to cancel light pollution and image galaxies basically requires an expensive large sized monochrome camera, but while looking for a less expensive way to get this effect, one good way was found. This is a report about it.
 
 ## Configuration of equipment
 
@@ -13,7 +13,7 @@ The camera with the IMX462 is the [QHY5III462C](https://www.qhyccd.com/index.php
 
 And the rest of the configuration is as follows.
 
-* The optical tube is an entry-level 130mm F5 Newtonian (with a dedicated focuser for the 1.25" eyepiece. (It is equivalent to the [skywatcher 130P](https://www.skyatnightmagazine.com/reviews/telescopes/sky-watcher-starquest-130p-newtonian-reflector-review/)
+* The optical tube is an entry-level 130mm F5 Newtonian (with a dedicated focuser for the 1.25" eyepiece. (It is equivalent to the [skywatcher 130P](https://www.skyatnightmagazine.com/reviews/telescopes/sky-watcher-starquest-130p-newtonian-reflector-review/)))
 * SIGHTRON JAPAN's [IR640 PRO](https://www.sightron.co.jp/product/irpro_filter.html) infrared pass filter
 * x0.5, 1.25" reducer (It's sold for [about $30](https://agenaastro.com/gso-1-25-0-5x-focal-reducer.html).) 
 
