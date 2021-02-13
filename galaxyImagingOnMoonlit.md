@@ -1,4 +1,4 @@
-# Galaxy Imaging on Moolight Night
+# Galaxy Imaging on Moolit Night
 
 As you know, the moonlight reflects the spectrum of the sun. The following site shows the spectrum of the moon.
 http://www.olino.org/blog/us/articles/2015/10/05/spectrum-of-moon-light
