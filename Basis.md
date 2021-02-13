@@ -10,7 +10,7 @@ Even if the H-alpha narrow-band filter is capable of anti-light pollution, it wo
 
 ## Spectrum of various lights
 
-The following graph shows the spectrum of a commonly used lighting device (lamp).
+The following graph shows the spectrum of a commonly used lighting devices (lamps).
 
 ![Spectrum of various lights](imgs/LumpSpector.png)
 
