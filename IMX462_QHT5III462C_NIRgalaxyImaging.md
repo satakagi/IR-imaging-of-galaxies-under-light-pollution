@@ -64,9 +64,9 @@ The object captured is NGC1784 at Orion, and the exposure times are both 2 secon
 ### IR640 vs CLSCCD vs UHC
 The Optlong's CLSCCD has the near-infrared band cut off. On the other hand, the UHC for ophthalmoscopy (brand unknown) seems to be transparent in the near-infrared band, as seen in this picture. Compared to these two anti-light pollution filters, the IR640 seems to be superior in combination with this imager.
 
-![with IR640](imgs/IMX462_NGC1784_comp2_IR640 Stack_32bits_25frames_100slc.jpg)
-![with UHC](imgs/IMX462_NGC1784_comp2_UHC_Stack_32bits_25frames_100slc.jpg)
-![with CLSCCD](imgs/IMX462_NGC1784_comp2_CLSCCD Stack_32bits_25frames_100slc.jpg)
+![with IR640](imgs/IMX462_NGC1784_comp2_IR640.jpg)
+![with UHC](imgs/IMX462_NGC1784_comp2_UHC.jpg)
+![with CLSCCD](imgs/IMX462_NGC1784_comp2_CLSCCD.jpg)
 
 ## Conclusion
 
