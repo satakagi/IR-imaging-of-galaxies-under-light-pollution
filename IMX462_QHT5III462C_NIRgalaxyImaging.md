@@ -70,4 +70,4 @@ All imaging is exposed for a common exposure time of 4 seconds x 25 frames. The 
 
 ## Conclusion
 
-The camera with IMX462 was found to be suitable not only for planetary use but also for imaging galaxies in light-polluted areas. It seems that this camera can be recommended as an entry-level camera for almost all astronomical applications, including galaxies.　It will expand the scope of the astronomical hobby at the stay-home, which has been going on since 2020.
+Combined with a red to near-infrared pass filter, the imager with IMX462 was found to be suitable not only for planetary use but also for imaging galaxies in light-polluted areas. It seems that this camera can be recommended as an entry-level camera for almost all astronomical applications, including galaxies.　It will expand the scope of the astronomical hobby at the stay-home, which has been going on since 2020.
