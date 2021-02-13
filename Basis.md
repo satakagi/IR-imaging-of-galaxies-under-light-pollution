@@ -41,6 +41,8 @@ From these graphs, we can estimate some of the characteristics of the skyglow sp
 
 And, [the research described in this slides](http://darkskyparks.splet.arnes.si/files/2010/09/Lastovo2010_Andreic.pdf) also suggests that the longer the wavelength, the less susceptible the telescope is to light pollution from scattering.
 
+*Note: This would indicate that [red to near-infrared is useful even for galaxy imaging on moonlit nights](galaxyImagingOnMoonlit.md).*
+
 ## Quantum Efficiency (QE) of CMOS Imager in Recent Years
 
 ![IMX455QE](imgs/IMX455QE.png)
