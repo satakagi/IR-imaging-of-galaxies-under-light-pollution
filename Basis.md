@@ -33,10 +33,7 @@ And, the following graph shows the spectrum of normalized sunlight and blue sky.
 
 ![spectrum of sun and blue sky](imgs/Sun_vs_BlueSky.png)
 
-The following graph shows the coefficients of the intensity of the blue sky.
-Obviously, the blue sky has brightness due to the scattering of light from the sun, which is the light source. That is, by comparing these two spectra, we can infer the actual scattering of light by the atmosphere.
-
-First, from this graph, it can be inferred that the scattered light of long wavelengths rapidly decays after peaking around 500nm.
+Obviously, the blue sky has brightness due to the scattering of light from the sun, which is the light source. That is, by comparing these two spectra, we can infer the actual scattering of light by the atmosphere. First, from this graph, it can be inferred that the scattered light of long wavelengths rapidly decays after peaking around 500nm.
 
 Based on the two data in the graph above, the following graph shows the spectrum of blue sky divided by the spectrum of the sun as the denominator. It is rough, but it may be easier to guess the wavelength dependence of the light scattered by the atmosphere on the light source.
 
