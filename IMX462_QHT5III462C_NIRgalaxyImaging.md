@@ -52,6 +52,8 @@ With ordinary imagers, the imaging plane (focal plane) of the imaging device can
 ![Newtonian OTA focuser with reducer attached to the camera](imgs/QHY_focuser.jpg)
 
 ## Side-by-side comparison
+
+### IR640 vs No Filter
 The following images show a comparison of the results with and without the IR640 filter.
 
 The object captured is NGC1784 at Orion, and the exposure times are both 2 seconds x 52 frames using LiveStack. (104 seconds total). Stretching was done for image processing. The unfiltered image has fewer faint stars and fainter details in the galaxy.
@@ -59,6 +61,12 @@ The object captured is NGC1784 at Orion, and the exposure times are both 2 secon
 ![with IR640](imgs/IMX462_IR640.jpg)
 ![no filter](imgs/IMX462_NOFILTER.jpg)
 
+### IR640 vs CLSCCD vs UHC
+The Optlong's CLSCCD has the near-infrared band cut off. On the other hand, the UHC for ophthalmoscopy (brand unknown) seems to be transparent in the near-infrared band, as seen in this picture. Compared to these two anti-light pollution filters, the IR640 seems to be superior in combination with this imager.
+
+![with IR640](imgs/IMX462_NGC1784_comp2_IR640 Stack_32bits_25frames_100slc.jpg)
+![with UHC](imgs/IMX462_NGC1784_comp2_UHC_Stack_32bits_25frames_100slc.jpg)
+![with CLSCCD](imgs/IMX462_NGC1784_comp2_CLSCCD Stack_32bits_25frames_100slc.jpg)
 
 ## Conclusion
 
