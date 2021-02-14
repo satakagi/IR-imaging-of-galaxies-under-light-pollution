@@ -27,7 +27,7 @@ Both are live stacked images of 2 seconds/frame x 30 frames using SharpCapPro.
 
 The above images are the result of stacking a small number of short exposures of a few seconds, which is equivalent to the EAA case.
 For reference, here is a 285-second stacked image of Arp 273.
-For more longer stacked images of the same subject, see [the gallery](ImageGallery.html).
+For more longer stacked images of the same subject, see [the gallery](ImageGallery.md).
 
 ![Arp273 exposure 285seconds](imgs/Arp273_285s.jpg)
 
@@ -41,4 +41,4 @@ LiveStacked with SharpCapPro 15 seconds x 19 subframes.
 
 ## For astrophotography
 
-For some higher quality astrophotography equivalent images, [please visit the gallery](ImageGallery.html).
+For some higher quality astrophotography equivalent images, [please visit the gallery](ImageGallery.md).
