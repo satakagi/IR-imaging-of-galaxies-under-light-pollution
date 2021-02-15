@@ -70,6 +70,8 @@ All three captured images were exposed with a common exposure time of 4 seconds 
 
 ## Captured Images
 
+NGC2903 ( at the head of this page ) : 13cm F5 Newtonian, IR640 filter, x0.5 Reducer, QHY5III462C, 5 seconds x 780 subframes (total 65 minutes)
+
 Leo Triplet : 13cm F5 Newtonian, IR640 filter, x0.5 Reducer, QHY5III462C, 5 seconds x 370 subframes (total 30.8 minutes)
 
 ![Leo Triplet by QHY5III462C](imgs/Leo_Triplet_IMX462.jpg)
