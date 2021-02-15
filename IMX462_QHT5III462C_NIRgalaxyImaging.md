@@ -70,7 +70,7 @@ All three captured images were exposed with a common exposure time of 4 seconds 
 
 ## Captured Images
 
-Leo Triplet
+Leo Triplet : 13cm F5 Newtonian, IR640 filter, x0.5 Reducer, QHY5III462C, 5 seconds x 370 subframes (total 30.8 minutes)
 
 ![Leo Triplet by QHY5III462C](imgs/Leo_Triplet_IMX462.jpg)
 
