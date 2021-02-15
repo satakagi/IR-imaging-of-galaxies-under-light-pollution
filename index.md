@@ -7,7 +7,7 @@
 <p align="right">Satoru Takagi</p>
   
 ## introduction
-The author live in the center of Tokyo ([SQM 18.1, Bortle	8-9](https://www.lightpollutionmap.info/#zoom=8&lat=35.67&lon=139.77&layers=B0FFFFFFTFFFFFFFFFF)), and mainly enjoy observing celestial objects at home. Therefore, overcoming light pollution is a very important issue.
+The author live in the center of Tokyo ([SQM 18.1, Bortle	8-9](https://www.lightpollutionmap.info/#zoom=8&lat=35.67&lon=139.77&layers=B0FFFFFFTFFFFFFFFFF)), and mainly enjoy observing celestial objects at home. Therefore, overcoming this heavy light pollution is a very important issue.
 
 It is well known that H-alpha narrow bandpass filters are very effective for imaging HII regions at light-polluted areas.
 On the other hand, galaxies do not have emission line spectra like HII regions and are faint, so it has been difficult to image them under light pollution.
