@@ -68,6 +68,12 @@ All three captured images were exposed with a common exposure time of 4 seconds 
 ![with UHC](imgs/IMX462_NGC1784_comp2_UHC.jpg)
 ![with CLSCCD](imgs/IMX462_NGC1784_comp2_CLSCCD.jpg)
 
+## Captured Images
+
+Leo Triplet
+
+![Leo Triplet by QHY5III462C](imgs/Leo_Triplet_IMX462.jpg)
+
 ## Conclusion
 
 Combined with a red to near-infrared pass filter, the imager with IMX462 was found to be suitable not only for planetary use but also for imaging galaxies in light-polluted areas. It seems that this camera can be recommended as an entry-level camera for almost all astronomical applications, including galaxies.　It will expand the scope of the astronomical hobby at the stay-home, which has been going on since 2020.
