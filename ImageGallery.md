@@ -53,6 +53,10 @@ Deer Lick Group
 
 ![NGC7331_20201109.jpg](pictures/asi6200mm/NGC7331_20201109.jpg)
 
+NGC3430
+
+![NGC3430_20210217.jpg](pictures/asi6200mm/NGC3430_20210217.jpg)
+
 ## Images taken by the ASI1600MM Cool
 
 M51
