@@ -22,7 +22,7 @@ Of these, the incandescent bulb is rapidly disappearing today due to its lack of
 
 As long as the telescope is not facing the source of lightings,the light pollution that the telescope's field of view suffers is basically due to the scattering of the lighting, namely skyglow.
 
-It should be noted that the **lightings are not a direct result of light pollution** when imaging celestial objects with a telescope. We need to explore the characteristics of scattering.
+It should be noted that the **lightings are not a direct result of light pollution** when imaging celestial objects with a telescope. We need to explore the nature of the scattered light from lightings.
 
 According to the [wikipedia description of skyglow](https://en.wikipedia.org/wiki/Skyglow), [Rayleigh Scattering](https://en.wikipedia.org/wiki/Rayleigh_scattering) may be the cause, and the light pollution may be as much at shorter wavelengths as the reason why the sky is blue.
 
