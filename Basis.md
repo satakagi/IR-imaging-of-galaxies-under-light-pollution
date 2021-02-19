@@ -51,7 +51,7 @@ And, [the research described in this slides](http://darkskyparks.splet.arnes.si/
 
 ![IMX455QE](imgs/IMX455QE.png)
 
-This graph shows the absolute QE of the relatively recent SONY's [backside illumination (BSI)](https://en.wikipedia.org/wiki/Back-illuminated_sensor) CMOS image sensor (IMX455) from [QHY's report](https://www.facebook.com/QHYCCD/posts/3087967891306473), which has a practical QE of about 80% even in the H-alpha band and about 40% at 800nm, indicating that imaging in the red to near-infrared is realistic. So, monochrome CMOS imagers using SONY's BSI sensors seem to have good sensitivity in red to IR.
+This graph shows the absolute QE of the relatively recent SONY's [backside illumination (BSI)](https://en.wikipedia.org/wiki/Back-illuminated_sensor) monochrome CMOS image sensor (IMX455ALK) from [QHY's report](https://www.facebook.com/QHYCCD/posts/3087967891306473), which has a practical QE of about 80% even in the H-alpha band and about 40% at 800nm, indicating that imaging in the red to near-infrared is realistic. So, monochrome CMOS imagers using SONY's BSI sensors seem to have good sensitivity in red to IR.
 
 The QE of various sensors is mentioned in [the forum of astrosurf.com](http://www.astrosurf.com/topic/139598-nouvelle-cam%C3%A9ra-mono-zwo-asi294-en-pr%C3%A9vision/?do=findComment&comment=1910295).
 
