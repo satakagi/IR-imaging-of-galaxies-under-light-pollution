@@ -89,9 +89,11 @@ Milky Way
 
 ![MilkyWay_202008012036.jpg](pictures/asi1600mm/MilkyWay_202008012036.jpg)
 
+<!--
 Antennae Galaxies
 
 ![NGC4038_20200316.jpg](pictures/asi1600mm/NGC4038_20200316.jpg)
+-->
 
 NGC4535
 
