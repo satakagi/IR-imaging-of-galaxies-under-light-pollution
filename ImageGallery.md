@@ -59,15 +59,15 @@ NGC3430
 
 Antennae Galaxies
 
-![NGC4038 20210219](pictures/asi6200mm/NGC4038 20210219.jpg)
+![NGC4038_20210219](pictures/asi6200mm/NGC4038_20210219.jpg)
 
 NGC2841
 
-![NGC2841 20210216.jpg](pictures/asi6200mm/NGC2841 20210216.jpg)
+![NGC2841_20210216.jpg](pictures/asi6200mm/NGC2841_20210216.jpg)
 
 NGC2683
 
-![NGC2683 20210216.jpg](pictures/asi6200mm/NGC2683 20210216.jpg)
+![NGC2683_20210216.jpg](pictures/asi6200mm/NGC2683_20210216.jpg)
 
 
 
