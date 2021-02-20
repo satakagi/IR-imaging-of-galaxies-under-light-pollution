@@ -57,6 +57,20 @@ NGC3430
 
 ![NGC3430_20210217.jpg](pictures/asi6200mm/NGC3430_20210217.jpg)
 
+Antennae Galaxies
+
+![NGC4038 20210219](pictures/asi6200mm/NGC4038 20210219.jpg)
+
+NGC2841
+
+![NGC2841 20210216.jpg](pictures/asi6200mm/NGC2841 20210216.jpg)
+
+NGC2683
+
+![NGC2683 20210216.jpg](pictures/asi6200mm/NGC2683 20210216.jpg)
+
+
+
 ## Images taken by the ASI1600MM Cool
 
 M51
