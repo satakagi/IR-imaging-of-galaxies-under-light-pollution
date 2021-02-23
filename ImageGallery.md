@@ -114,3 +114,39 @@ NGC4631
 NGC5566
 
 ![NGC5566_20200414.jpg](pictures/asi1600mm/NGC5566_20200414.jpg)
+
+## Images taken by the QHY5III462C with low cost equipments
+This chapter presents images captured using low-cost, but extremely infrared-sensitive color sensors rather than monochrome sensors. [Click here](IMX462_QHT5III462C_NIRgalaxyImaging.md) for the equipment configuration.
+
+Leo Triplet
+
+![Leo_Triplet_IMX462.jpg](pictures/qhy5iii462c/Leo_Triplet_IMX462.jpg)
+
+M51
+
+![M51_20210223_132frames_660s.jpg](pictures/qhy5iii462c/M51_20210223_132frames_660s.jpg)
+
+M63
+
+![M63_20210223_122frames_610s.jpg](pictures/qhy5iii462c/M63_20210223_122frames_610s.jpg)
+
+M64
+
+![M64_20210223_114frames_570s.jpg](pictures/qhy5iii462c/M64_20210223_114frames_570s.jpg)
+
+NGC2903
+
+![NGC2903_IMX462.jpg](pictures/qhy5iii462c/NGC2903_IMX462.jpg)
+
+NGC4559
+
+![NGC4559_20210223_119frames_595s.jpg](pictures/qhy5iii462c/NGC4559_20210223_119frames_595s.jpg)
+
+NGC4565
+
+![NGC4565_20210222_142frames_710s.jpg](pictures/qhy5iii462c/NGC4565_20210222_142frames_710s.jpg)
+
+NGC4631
+
+![NGC4631_20210223_120frames_600s.jpg](pictures/qhy5iii462c/NGC4631_20210223_120frames_600s.jpg)
+
