@@ -44,3 +44,7 @@ As shown below, due to the short exposure time per frame, the author sometimes u
 
 Due to this unstable mounting environment, the author's imaging method is lucky imaging, which stacks a large number of normal images out of which images are suppressed to 15 seconds per frame at best.
 SharpCapPro was used as the capture software, and its Live Stack feature was used to select and stack images on the fly.
+
+## [Low-cost equipment configuration](IMX462_QHT5III462C_NIRgalaxyImaging.md)
+
+[This page ](IMX462_QHT5III462C_NIRgalaxyImaging.md) provides an explanation of a much lower cost configuration that provides almost the same benefits.
