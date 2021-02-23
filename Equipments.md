@@ -45,7 +45,7 @@ As shown below, due to the short exposure time per frame, the author sometimes u
 Due to this unstable mounting environment, the author's imaging method is lucky imaging, which stacks a large number of normal images out of which images are suppressed to 15 seconds per frame at best. The gain is set considerably higher than in normal long-exposure imaging.
 SharpCapPro was used as the capture software, and its Live Stack feature was used to select and stack images on the fly.
 
-However, the adoption of Lucky Imaging is due to the author's fragile mounting environment and is not essential for red to near-infrared imaging.
+However, the adoption of Lucky Imaging is due to the author's fragile mounting environment and is not essential for red to near-infrared imaging. The regular imaging method with longer exposures at lower gain is of course available.
 
 ## [Low-cost equipment configuration](IMX462_QHT5III462C_NIRgalaxyImaging.md)
 
