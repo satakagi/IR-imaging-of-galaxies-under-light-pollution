@@ -16,3 +16,10 @@ These are external links on galaxy imaging using red to near infrared filters
 
 * [https://www.cloudynights.com/topic/709912-eaa-filter-use/](https://www.cloudynights.com/topic/709912-eaa-filter-use/)
 * [https://www.cloudynights.com/topic/733676-effective-light-pollution-filter-for-eaa-of-galaxies-nebulae/](https://www.cloudynights.com/topic/733676-effective-light-pollution-filter-for-eaa-of-galaxies-nebulae/)
+
+## Other Contents
+
+* [https://www.astronomik.com/en/news/lucky_imaging_with_astronomik_proplanet642bp_en/](https://www.astronomik.com/en/news/lucky_imaging_with_astronomik_proplanet642bp_en/)
+* [http://nakagawa-opticslab.blog.jp/archives/24717567.html](http://nakagawa-opticslab.blog.jp/archives/24717567.html)
+* [http://nakagawa-opticslab.blog.jp/archives/24734840.html](http://nakagawa-opticslab.blog.jp/archives/24734840.html)
+* [https://syumittoblog.blog.fc2.com/blog-entry-1719.html](https://syumittoblog.blog.fc2.com/blog-entry-1719.html)
