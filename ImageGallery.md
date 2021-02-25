@@ -73,17 +73,19 @@ Antennae Galaxies
 ![NGC4038_20210219](pictures/asi6200mm/NGC4038_20210219.jpg)
 
 NGC2841
+<span style="font-size: 60%;"><br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 10s x 201</span>
 
 ![NGC2841_20210216.jpg](pictures/asi6200mm/NGC2841_20210216.jpg)
 
 NGC2683
+<span style="font-size: 60%;"><br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 5s x 480</span>
 
 ![NGC2683_20210216.jpg](pictures/asi6200mm/NGC2683_20210216.jpg)
 
 NGC4438
+<span style="font-size: 60%;"><br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 381</span>
 
 ![NGC4438_20210220.jpg](pictures/asi6200mm/NGC4438_20210220.jpg)
-<span style="font-size: 60%;"><br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 381</span>
 
 
 
