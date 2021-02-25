@@ -6,7 +6,7 @@ All images have been resized to fit within 1600 x 1200 pixels to reduce load. Th
 
 ## Images taken by the ASI6200MM Pro
 Arp 273
-<br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 876
+<span style="font-size: 60%;"><br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 876</span>
 
 ![Arp273_20210102.jpg](pictures/asi6200mm/Arp273_20210102.jpg)
 
@@ -15,47 +15,47 @@ M31
 ![M31_20201025.jpg](pictures/asi6200mm/M31_20201025.jpg)
 
 Leo Triplet
-<br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 20s x 181
+<span style="font-size: 60%;"><br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 20s x 181</span>
 
 ![M66_20210107.jpg](pictures/asi6200mm/M66_20210107.jpg)
 
 M77
-<br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 20s x 800
+<span style="font-size: 60%;"><br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 20s x 800</span>
 
 ![M77_20201114.jpg](pictures/asi6200mm/M77_20201114.jpg)
 
 M95 ans M96
-<br>VC200L, x0.71 VC Reducer2, Astronomik ProPalnet 642BP-IRpass, ASI6200MM, 15s x 282
+<span style="font-size: 60%;"><br>VC200L, x0.71 VC Reducer2, Astronomik ProPalnet 642BP-IRpass, ASI6200MM, 15s x 282</span>
 
 ![M95_M96_20210209.jpg](pictures/asi6200mm/M95_M96_20210209.jpg)
 
 NGC253
-<br>VC200L, x0.71 VC Reducer2, Astronomik ProPalnet 642BP-IRpass, ASI6200MM, 10s x 180
+<span style="font-size: 60%;"><br>VC200L, x0.71 VC Reducer2, Astronomik ProPalnet 642BP-IRpass, ASI6200MM, 10s x 180</span>
 
 ![NGC253_20201201.jpg](pictures/asi6200mm/NGC253_20201201.jpg)
 
 NGC474
-<br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x about1200
+<span style="font-size: 60%;"><br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x about1200</span>
 
 ![NGC474_20201117_18.jpg](pictures/asi6200mm/NGC474_20201117_18.jpg)
 
 Perseus Cluster
-<br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 486
+<span style="font-size: 60%;"><br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 486</span>
 
 ![NGC1275_20210108.jpg](pictures/asi6200mm/NGC1275_20210108.jpg)
 
 NGC2563 Group
-<br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 20s x 558
+<span style="font-size: 60%;"><br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 20s x 558</span>
 
 ![NGC2560_20210206.jpg](pictures/asi6200mm/NGC2560_20210206.jpg)
 
 NGC2903
-<br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 748
+<span style="font-size: 60%;"><br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 748</span>
 
 ![NGC2903_20210109.jpg](pictures/asi6200mm/NGC2903_20210109.jpg)
 
 Stephan's Quintet
-<br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 573
+<span style="font-size: 60%;"><br>C11, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 573</span>
 
 ![NGC7320_20201020.jpg](pictures/asi6200mm/NGC7320_20201020.jpg)
 
@@ -68,7 +68,7 @@ NGC3430
 ![NGC3430_20210217.jpg](pictures/asi6200mm/NGC3430_20210217.jpg)
 
 Antennae Galaxies
-<br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 601
+<span style="font-size: 60%;"><br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 601</span>
 
 ![NGC4038_20210219](pictures/asi6200mm/NGC4038_20210219.jpg)
 
@@ -101,7 +101,7 @@ M101
 ![M101_20200418.jpg](pictures/asi1600mm/M101_20200418.jpg)
 
 Milky Way
-<br>EF24mmF2.8, Astronomik 642BP-IRpass, ASI1600MM-C, 1s x 158
+<span style="font-size: 60%;"><br>EF24mmF2.8, Astronomik 642BP-IRpass, ASI1600MM-C, 1s x 158</span>
 
 ![MilkyWay_202008012036.jpg](pictures/asi1600mm/MilkyWay_202008012036.jpg)
 
