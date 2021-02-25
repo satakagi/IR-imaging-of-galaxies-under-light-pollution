@@ -83,6 +83,7 @@ NGC2683
 NGC4438
 
 ![NGC4438_20210220.jpg](pictures/asi6200mm/NGC4438_20210220.jpg)
+<span style="font-size: 60%;"><br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 381</span>
 
 
 
