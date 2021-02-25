@@ -68,6 +68,7 @@ NGC3430
 ![NGC3430_20210217.jpg](pictures/asi6200mm/NGC3430_20210217.jpg)
 
 Antennae Galaxies
+<br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 601
 
 ![NGC4038_20210219](pictures/asi6200mm/NGC4038_20210219.jpg)
 
