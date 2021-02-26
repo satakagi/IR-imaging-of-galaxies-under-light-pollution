@@ -76,6 +76,8 @@ Leo Triplet : 13cm F5 Newtonian, IR640 filter, x0.5 Reducer, QHY5III462C, 5 seco
 
 ![Leo Triplet by QHY5III462C](imgs/Leo_Triplet_IMX462.jpg)
 
+[There are several more images are available in the image gallery.](ImageGallery.md#images-taken-by-the-qhy5iii462c-with-low-cost-equipments)
+
 ## Conclusion
 
 Combined with a red to near-infrared pass filter, the imager with IMX462 was found to be suitable not only for planetary use but also for imaging galaxies in light-polluted areas. It seems that this camera can be recommended as an entry-level camera for almost all astronomical applications, including galaxies.　It will expand the scope of the astronomical hobby at the stay-home, which has been going on since 2020.
