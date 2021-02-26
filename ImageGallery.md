@@ -2,7 +2,7 @@
 
 These images were taken in central Tokyo on SQM 18.1. They were imaged using monochrome CMOS imagers with red to near-infrared pass filters, as described on this site.
 
-All images have been resized to fit within 1600 x 1200 pixels to reduce load. The imaging conditions for each image may be added later.
+All images have been resized to fit within 1600 x 1200 pixels to reduce load. Note that the imaging conditions are roughly described along with the title of each image.
 
 ## Images taken by the ASI6200MM Pro
 Arp 273
