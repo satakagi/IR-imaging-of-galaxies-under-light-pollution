@@ -14,6 +14,7 @@ These are external links on galaxy imaging using red to near infrared filters
 * [https://hpn.hatenablog.com/entry/2021/03/11/203805](https://hpn.hatenablog.com/entry/2021/03/11/203805)
 * [http://uto18.blog.jp/archives/8561149.html](http://uto18.blog.jp/archives/8561149.html)
 * [https://oozoraashiato.blog.fc2.com/blog-entry-2233.html](https://oozoraashiato.blog.fc2.com/blog-entry-2233.html)
+* [https://hdv-blog.blogspot.com/2021/02/blog-post_23.html](https://hdv-blog.blogspot.com/2021/02/blog-post_23.html)
 
 ## Cloudy Nights Topics ##
 
