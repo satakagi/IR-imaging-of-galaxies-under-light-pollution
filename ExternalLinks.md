@@ -10,7 +10,9 @@ These are external links on galaxy imaging using red to near infrared filters
 * [https://uesugisouta.blog.fc2.com/blog-entry-382.html](https://uesugisouta.blog.fc2.com/blog-entry-382.html)
 * [https://twitter.com/tenmonReflexion/status/1351545825139150849](https://twitter.com/tenmonReflexion/status/1351545825139150849)
 * [https://twitter.com/astrotakac/status/1362942243355586560](https://twitter.com/astrotakac/status/1362942243355586560)
-
+* [https://astrotakac.blog.fc2.com/blog-entry-418.html](https://astrotakac.blog.fc2.com/blog-entry-418.html)
+* [http://ruku0928.livedoor.blog/archives/28354851.html](http://ruku0928.livedoor.blog/archives/28354851.html)
+* [https://hpn.hatenablog.com/entry/2021/03/11/203805](https://hpn.hatenablog.com/entry/2021/03/11/203805)
 
 ## Cloudy Nights Topics ##
 
