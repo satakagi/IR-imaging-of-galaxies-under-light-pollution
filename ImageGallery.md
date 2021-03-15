@@ -145,7 +145,7 @@ Deer Lick Group
 ![NGC7331_20201109.jpg](pictures/asi1600mm/NGC7331_20201109.jpg)
 
 ## Images taken by the QHY5III462C with low cost equipments
-This chapter presents images captured using low-cost, but extremely infrared-sensitive color sensors rather than monochrome sensors. [Click here](IMX462_QHT5III462C_NIRgalaxyImaging.md) for the equipment configuration. The equipment configuration is [this for a D130mm Newtonian](imgs/Newtonian130_QHY5III462C.jpg) and [this for a 50mm refractor](imgs/EVOGUIDE50ED_QHY5III462C).
+This chapter presents images captured using low-cost, but extremely infrared-sensitive color sensors rather than monochrome sensors. [Click here](IMX462_QHT5III462C_NIRgalaxyImaging.md) for the equipment configuration. The equipment configuration is [this for a D130mm Newtonian](imgs/Newtonian130_QHY5III462C.jpg) and [this for a 50mm refractor](imgs/EVOGUIDE50ED_QHY5III462C.jpg).
 
 Leo Triplet
 <span style="font-size: 60%;"><br>130mm f5 Newtonian, SIGHTRON IR640 PRO filter, 1.25" x0.5 Reducer, QHY5III462C, 5s x 370</span>
@@ -188,7 +188,7 @@ NGC4631
 ![NGC4631_20210223_120frames_600s.jpg](pictures/qhy5iii462c/NGC4631_20210223_120frames_600s.jpg)
 
 M51
-<span style="font-size: 60%;"><br>EVO GUIDE 50ED (D50mm,f242mm refractor), SIGHTRON IR640 PRO filter, QHY5III462C, 5s x 507</span>
+<span style="font-size: 60%;"><br>[EVO GUIDE 50ED (D50mm,f242mm refractor)](imgs/EVOGUIDE50ED_QHY5III462C.jpg), SIGHTRON IR640 PRO filter, QHY5III462C, 5s x 507</span>
 
 ![M51_202103_462C_EVG50ED_5s_507.jpg](pictures/qhy5iii462c/M51_202103_462C_EVG50ED_5s_507.jpg)
 
