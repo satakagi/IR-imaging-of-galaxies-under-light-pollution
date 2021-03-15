@@ -23,6 +23,7 @@ The imaging conditions were as follows: exposure time was 5 seconds x 780 frames
 
 Therefore, an auto-tracking Alt-Az mount can be used for this purpose. However, due to the rotation of the field of view, the vicinity of the image will be lost.
 
+![Newtonian130_QHY5III462C.jpg](imgs/Newtonian130_QHY5III462C.jpg)
 
 ## Description of the imaging system
 
