@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+title: '<a href="/" style="color: white">NIR Imaging of Galaxies Under Heavy Light Pollution</a>'
 google_analytics: UA-186183409-2
 plugins:
  - jekyll-sitemap
