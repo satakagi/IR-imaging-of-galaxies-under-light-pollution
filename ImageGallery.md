@@ -91,6 +91,11 @@ Arp105
 ![NGC3561_20210314_1080f_10800s.jpg](pictures/asi6200mm/NGC3561_20210314_1080f_10800s.jpg)
 
 
+Leo Quartet
+<span style="font-size: 60%;"><br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 15s x 926</span>
+
+![NGC3190_LeoQuartet_20210315_15s_926f.jpg](pictures/asi6200mm/NGC3190_LeoQuartet_20210315_15s_926f.jpg)
+
 
 ## Images taken by the ASI1600MM Cool
 
