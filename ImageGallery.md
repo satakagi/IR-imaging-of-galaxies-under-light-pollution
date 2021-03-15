@@ -88,7 +88,7 @@ NGC4438
 Arp105
 <span style="font-size: 60%;"><br>C11, STARIZONA SCT CORRECTOR LF II, Astronomik ProPalnet 642BP-IRpass, ASI6200MM bin2, 10s x 1080</span>
 
-![NGC3561_20210314 1080f_10800s.jpg](pictures/asi6200mm/NGC3561_20210314 1080f_10800s.jpg)
+![NGC3561_20210314_1080f_10800s.jpg](pictures/asi6200mm/NGC3561_20210314_1080f_10800s.jpg)
 
 
 
