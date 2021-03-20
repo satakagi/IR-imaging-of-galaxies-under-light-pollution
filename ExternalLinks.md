@@ -4,6 +4,7 @@ These are external links on galaxy imaging using red to near infrared filters
 
 ## Independent Verifications ##
 
+* [http://uwakinabokura.livedoor.blog/archives/9101874.html](http://uwakinabokura.livedoor.blog/archives/9101874.html)
 * [https://twitter.com/hayak001/status/1360969172847534085](https://twitter.com/hayak001/status/1360969172847534085)
 * [https://yamagiri500.blog.fc2.com/](https://yamagiri500.blog.fc2.com/)
 * [https://twitter.com/HDV_blog/status/1353735462347706375](https://twitter.com/HDV_blog/status/1353735462347706375)
