@@ -2,7 +2,7 @@
 
 The key is to use a monochrome camera with sufficient QE in the red to near-infrared and an IR pass filter. Other than that, it is no different from general galaxy imaging.
 
-The choice of a red to IR pass filter is a bit tricky, but as mentioned earlier, the author prefers filters continuously transmit light from the H-alpha band to the longer wavelengths of near-infrared.
+The choice of a red to IR pass filter is a bit tricky, but as mentioned earlier, the author prefers filters continuously transmit light from the H-alpha band to the longer wavelengths of near-infrared. This is because this red wavelength band is well known to be very effective in imaging HII regions in light-polluted areas, and at the same time, the QE of CMOS imagers is much higher than in the longer wavelengths of near-infrared.
 
 For reference, the following is a list of cameras and filters used by the author.
 
@@ -19,7 +19,7 @@ The monochrome CMOS image sensor used by the ASI1600MM is not a BSI type and doe
 ![Red to IR pass filters](imgs/IR640.jpg)
 
 As red to near-infrared pass filters, the author uses the dielectric interference type filters that have recently come on the market because of their sharp characteristics and high transmittance. Another similar filter is SVBONY's [SV183 IR Pass 685nm](https://www.svbony.com/sv183-filter/), although it blocks H-alpha band.
-On the other hand, the classic and cheaper dye-based IR pass filters could also be used.
+On the other hand, the classic and cheaper dye-based IR pass filters could also be used. Some examples are [Lumicon](https://www.highpointscientific.com/lumicon-1pt25in-night-sky-hydrogen-alpha-ha-filter-lf3085) and [Optolong's](http://www.optolong.com/cms/document/detail/id/118.html) Night Sky Ha Filter.
 
 ## Optical Tube Assemblies
 
