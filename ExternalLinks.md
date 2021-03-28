@@ -6,7 +6,7 @@ These are external links on galaxy imaging using red to near infrared filters
 
 * [http://uwakinabokura.livedoor.blog/archives/9101874.html](http://uwakinabokura.livedoor.blog/archives/9101874.html)
 * [https://twitter.com/hayak001/status/1360969172847534085](https://twitter.com/hayak001/status/1360969172847534085)
-* [https://yamagiri500.blog.fc2.com/](https://yamagiri500.blog.fc2.com/)
+* [https://yamagiri500.blog.fc2.com/](https://yamagiri500.blog.fc2.com/), ([Verification post](https://yamagiri500.blog.fc2.com/blog-entry-327.html))
 * [https://twitter.com/HDV_blog/status/1353735462347706375](https://twitter.com/HDV_blog/status/1353735462347706375)
 * [https://uesugisouta.blog.fc2.com/blog-entry-382.html](https://uesugisouta.blog.fc2.com/blog-entry-382.html)
 * [https://twitter.com/tenmonReflexion/status/1351545825139150849](https://twitter.com/tenmonReflexion/status/1351545825139150849)
